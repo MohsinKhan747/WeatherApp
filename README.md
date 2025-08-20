@@ -10,8 +10,9 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 - Responsive design for desktop and mobile
 
 #Preview
-![App Screenshot](<img width="863" height="617" alt="image" src="https://github.com/user-attachments/assets/bf711d76-3551-404b-8735-6b6c52a68bf2" />)
 
+
+![Screenshot 2025-08-20 162427](https://github.com/user-attachments/assets/23dfdfb4-1f32-4195-894a-bed17d4d37d1)
 
 ## Installation
 
