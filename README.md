@@ -9,6 +9,9 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 - Keeps a history of searched cities
 - Responsive design for desktop and mobile
 
+#Preview
+![Uploading image.png…]()
+
 ## Installation
 
 1. Clone the repository:
